@@ -54,3 +54,10 @@
    ![alt text](image-9.png)
 2. Some more example using unions
    ![alt text](image-10.png)
+
+## Intersections
+
+1. This is how we do intersections
+   ![alt text](image-11.png)
+2. This is how we do intersections with types
+   ![alt text](image-12.png)
