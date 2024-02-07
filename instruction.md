@@ -45,4 +45,12 @@
 
 1. This is how we defined function type when passed as arguments
    ![alt text](image-8.png)
-2. 
+
+# 7 Feb
+
+## Unions
+
+1. Here how can we define the unions
+   ![alt text](image-9.png)
+2. Some more example using unions
+   ![alt text](image-10.png)
