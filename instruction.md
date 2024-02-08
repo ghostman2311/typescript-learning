@@ -61,3 +61,50 @@
    ![alt text](image-11.png)
 2. This is how we do intersections with types
    ![alt text](image-12.png)
+
+# 8 Feb
+
+## Read Only
+
+1. Here how we use read only on simple properties
+   ![alt text](image-13.png)
+2. This is how we can define read only on array
+   ![alt text](image-14.png)
+
+## KeyOF
+
+1. This is how we use key of operator
+   ![alt text](image-15.png)
+
+## TypeOF
+
+1. This is how we use typeof operator
+   ![alt text](image-16.png)
+2. People type will be dependent on person type
+
+## Index type
+
+1. This is initial code
+   ![alt text](image-17.png)
+2. We are duplicating the skill level in mutliple places.
+3. We can extract out Skill level in new type but we can handle it differently.
+4. Here is the way we can solve this
+   ![alt text](image-18.png)
+5. Here is another example
+   ![alt text](image-19.png)
+
+6. Here is another example. in this example we map over each element and return the type of element.
+   ![alt text](image-20.png)
+
+7. Here is another example
+   ![alt text](image-21.png)
+
+## As const and enums
+
+1. Here we can use as const
+   ![alt text](image-22.png)
+
+## Tuples
+
+1. This is how we define tuple
+   ![alt text](image-23.png)
