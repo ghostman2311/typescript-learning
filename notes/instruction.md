@@ -108,3 +108,77 @@
 
 1. This is how we define tuple
    ![alt text](image-23.png)
+
+# 10 Feb
+
+## Generics
+
+1. document.querySelector returns a general element, to select the input element we have to provide type in angle brackets
+   ![alt text](image-24.png)
+2. Initial code example, problem is what happen if there is another array of boolean
+   ![alt text](image-25.png)
+
+3. To fix the above problem we can use it like this
+   ![alt text](image-26.png)
+
+4. Map Example
+   ![alt text](image-27.png)
+
+5. API response example
+   ![alt text](image-28.png)
+
+6. We can add blog data in our above example
+   ![alt text](image-29.png)
+
+7. Passing default values to generics
+   ![alt text](image-30.png)
+
+8. If we want to enforce generic types to an object
+   ![alt text](image-31.png)
+
+9. When we write `Tdata extends string or Tdata extends array` that means it should be a string or it should be array only
+10. Write a function arrayto object in typescript
+
+11. Solution
+    ![alt text](image-32.png)
+
+## Async Functions
+
+1. Return type asynchronous function will always be a promise
+   ![alt text](image-33.png)
+
+2. Another example
+   ![alt text](image-34.png)
+
+## Pick and Omit
+
+1. Omit example
+   ![alt text](image-35.png)
+2. Pick example
+   ![alt text](image-36.png)
+
+## Partial and Required
+
+1. Partial makes all the fields optional
+   ![alt text](image-37.png)
+
+2. Required will make the fields as required
+   ![alt text](image-38.png)
+
+3. Required doesn't do deep nesting
+   ![alt text](image-39.png)
+
+4. In the below code, we are making the only the title as required property
+   ![alt text](image-40.png)
+
+5. We can reuse the required and partial like this
+   ![alt text](image-41.png)
+
+## Return types and parameters
+
+1. Initial Code
+   ![alt text](image-42.png)
+
+2. They are both just to check parameters type and return type of a function
+   ![alt text](image-43.png)
+
