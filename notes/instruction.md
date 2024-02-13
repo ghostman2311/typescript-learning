@@ -182,3 +182,43 @@
 2. They are both just to check parameters type and return type of a function
    ![alt text](image-43.png)
 
+# 12 Feb
+
+## Record
+
+1. Initial code
+   ![alt text](image-44.png)
+2. We can use Record type to achieve the same results
+   ![alt text](image-45.png)
+
+## Read only
+
+1. This is very similar to as const but we can use as const in javascript not in typescript
+   ![alt text](image-46.png)
+
+2. Read only is used when you want to create a new type from other type as read only
+   ![alt text](image-47.png)
+
+# 13 Feb
+
+## Awaited
+
+1. We can use this syntax like this. Awaited syntax just remove the promise.
+   ![alt text](image-48.png)
+
+2. More example
+   ![alt text](image-49.png)
+
+## Basic Type Guards
+
+1. Initial code
+   ![alt text](image-50.png)
+2. Basic type guard example
+   ![alt text](image-51.png)
+3. We can also use instance of operator
+   ![alt text](image-52.png)
+4. we can use ?. operator if a type is undefined
+5. If we know that form element will always be present then we can use ! operator like this
+   ![alt text](image-53.png)
+6. we can switch statement also
+   ![alt text](image-54.png)
