@@ -222,3 +222,10 @@
    ![alt text](image-53.png)
 6. we can switch statement also
    ![alt text](image-54.png)
+
+# 16 Feb
+
+## Unknown type
+
+1. Using unknown typescript will throw error so we need to narrow it down to check the type
+   ![alt text](image-55.png)
